@@ -17,11 +17,11 @@
 	<div class= "wrapper">
 	<nav>
 	<ul>
-		<li><a href="index.html">Home</a></li>
-		<li><a href="about.html">About Me</a></li>
-		<li><a href="blog.html">My Blog</a></li>
-		<li><a href="portfolio.html">My Work</a></li>
-		<li><a href="Contact.html">Contact Me</a></li>
+		<li><a href="index.php">Home</a></li>
+		<li><a href="about.php">About Me</a></li>
+		<li><a href="blog.php">My Blog</a></li>
+		<li><a href="portfolio.php">My Work</a></li>
+		<li><a href="Contact.php">Contact Me</a></li>
 	</ul>
 
 </nav>
