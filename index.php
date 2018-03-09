@@ -23,7 +23,7 @@
 <img src="fur.png" alt="fur">
 </div>
 
-<div class="col-2"><h2>W e l c o m e</h2><ul> I am Jaynelle and I am an aspiring content creator and graphic designer.</ul><button class="iform">More about me</button> </div>
+<div class="col-2"><h2>W e l c o m e</h2><ul> I am Jaynelle and I am an aspiring content creator and web designer.</ul><button class="iform">More about me</button> </div>
 	<div class="col-2">
 		<h2>S k i l l s</h2>
 		<ul style="list-style-type:circle">
