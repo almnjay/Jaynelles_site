@@ -9,7 +9,6 @@
 <body>
 <div class="main">
 
-
 	<nav>
 	<ul>
 		<li><a href="index.php">Home</a></li>
@@ -21,17 +20,19 @@
 
 </nav>
 
-<h2>Keep in Touch!</h2>
 
 
 <form>
+	
+<h2>Keep in Touch!</h2>
 
 	<input type="text" class="iform" placeholder="Name">
 
-	<input type="text" type= "email" class="iform" placeholder="Email">
+	<input type="text" class="iform" placeholder="Email">
 
 <textarea class="iform" placeholder="Message"></textarea>
 
+<button class="iform">Send</button>
 
 </form>
 
