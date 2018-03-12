@@ -76,7 +76,6 @@ textarea {
     padding: 1em ;
     cursor: pointer;
     display: block;
-	border-radius: 10%;
 }
 .btn:hover{
 background: #fcf7f5;
