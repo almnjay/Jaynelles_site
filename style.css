@@ -15,8 +15,8 @@ html, body {
 nav ul li{
 	display:inline;
 	font-family: 'Amatic SC', cursive;
-	font-size:21.8px;
-	padding:1em 2em;
+	font-size:30px;
+	padding:20px 30px;
 }
 
 nav ul li a{
