@@ -20,7 +20,7 @@
 
 </nav>
 
-<h2> P h o t o g r a p h y</h2>
+<h1> P h o t o g r a p h y</h1>
 
 <img src="PartySausage.jpg" alt="PartySausage">
 
@@ -29,13 +29,14 @@
 <img src="Flower.jpg" alt="Flowers">
 <p>This picture was taken on a muggy day at a park. I remember I had to get so low to the ground, I pretty much took this blindly.</p>
 
-<h2>A r t </h2>
+<h1>A r t </h1>
 <img src="deer.jpg" alt="Deer">
 
 <p>This is one of my recent drawings that was first drawn by hand and then colored and edited in photoshop.</p>
 <img src="trees.jpg" alt="Trees">
 <p>This is one of my first drawings in photoshop I made during a Web Development class.</p>
-<h2>S c h o o l w o r k</h2>
+	
+<h1>S c h o o l w o r k</h1>
 
 <img src="ImagingProject.jpg" alt="Downtown">
 <p> This is a project I did for school where I took pictures of buildings in downtown Orlando and pieced them together in a collage.</p>
