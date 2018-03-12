@@ -23,17 +23,27 @@
 
 
 
-<form>
-	
-<h2>Keep in Touch!</h2>
+<form method="post" name="myemailform" action="form-to-email.php">
 
 	<input type="text" class="iform" placeholder="Name">
 
-	<input type="text" class="iform" placeholder="Email">
+	<input type="text" type= "email" class="iform" placeholder="Email">
 
 <textarea class="iform" placeholder="Message"></textarea>
 
-<button class="iform">Send</button>
+<button class="btn">Send</button>
+	<?php 
+	name = $_POST[name'];
+	$visitor_email = $_POST['email'];
+    $message = $_POST['message'];
+	?>
+
+	<?php
+	$email_from = 'jaynellealeman@gmail.com';
+	$email_subject = "New Form submission";
+	$email_body = "You have received a new message from the user $name.\n"."Here is the message:\n $message".
+
+	?>
 
 </form>
 
