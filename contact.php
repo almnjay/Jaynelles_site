@@ -32,7 +32,7 @@
 
 <textarea class="iform" placeholder="Message"></textarea>
 
-<button class="iform">Send</button>
+<button class="btn">Send</button>
 
 </form>
 
