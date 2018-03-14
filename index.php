@@ -22,7 +22,10 @@
 <img src="fur.png" alt="fur">
 </div>
 
+<<<<<<< HEAD
 <!--
+=======
+>>>>>>> 031001d5361785f7899d1a6e58bcea865eef8e1a
 <div class="col-2"><h1>W e l c o m e</h1><ul> I am Jaynelle and I am an aspiring content creator and web designer.</ul><button class="btn">More about me</button> </div>
 
 	<div class="col-2">
