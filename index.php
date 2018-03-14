@@ -14,7 +14,6 @@
 	<ul>
 		<li><a href="index.php">Home</a></li>
 		<li><a href="about.php">About Me</a></li>
-		<li><a href="blog.php">My Blog</a></li>
 		<li><a href="portfolio.php">My Work</a></li>
 		<li><a href="contact.php">Contact Me</a></li>
 	</ul>
@@ -23,7 +22,7 @@
 <img src="fur.png" alt="fur">
 </div>
 
-<div class="col-2"><h2>W e l c o m e</h2><ul> I am Jaynelle and I am an aspiring content creator and graphic designer.</ul><button class="iform">More about me</button> </div>
+<!--<div class="col-2"><h2>W e l c o m e</h2><ul> I am Jaynelle and I am an aspiring content creator and web designer.</ul><button class="iform">More about me</button> </div>
 	<div class="col-2">
 		<h2>S k i l l s</h2>
 		<ul style="list-style-type:circle">
@@ -33,7 +32,7 @@
 			<li>Dream Weaver</li>
 		</ul>
 			<button class="iform">View my work</button>
-		</div>
+		</div>-->
 
 <div class="push">
 </div>

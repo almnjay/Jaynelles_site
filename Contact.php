@@ -9,12 +9,10 @@
 <body>
 <div class="main">
 
-
 	<nav>
 	<ul>
 		<li><a href="index.php">Home</a></li>
 		<li><a href="about.php">About Me</a></li>
-		<li><a href="blog.php">My Blog</a></li>
 		<li><a href="portfolio.php">My Work</a></li>
 		<li><a href="contact.php">Contact Me</a></li>
 	</ul>
