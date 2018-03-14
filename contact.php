@@ -23,7 +23,7 @@
 
 <form>
 	
-<h2>Keep in Touch!</h2>
+<h1>Keep in Touch!</h1>
 
 	<input type="text" class="iform" placeholder="Name">
 
@@ -31,7 +31,7 @@
 
 <textarea class="iform" placeholder="Message"></textarea>
 
-<button class="iform">Send</button>
+<button class="btn">Send</button>
 
 </form>
 

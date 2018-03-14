@@ -19,7 +19,7 @@
 
 </nav>
 
-<h2>Blog coming soon!</h2>
+<h1>Blog coming soon!</h1>
 
 
 </body>
